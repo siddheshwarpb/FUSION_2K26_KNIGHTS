@@ -1,0 +1,44 @@
+{
+  "name": "vulnerable-test-app",
+  "version": "1.0.0",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "vulnerable-test-app",
+      "version": "1.0.0",
+      "dependencies": {
+        "express": "^4.16.0"
+      },
+      "devDependencies": {
+        "mocha": "^8.0.0"
+      }
+    },
+    "node_modules/express": {
+      "version": "4.16.0",
+      "resolved": "https://registry.npmjs.org/express/-/express-4.16.0.tgz",
+      "integrity": "sha512-xxx",
+      "dependencies": {
+        "qs": "6.5.1",
+        "lodash": "4.17.15"
+      }
+    },
+    "node_modules/qs": {
+      "version": "6.5.1",
+      "resolved": "https://registry.npmjs.org/qs/-/qs-6.5.1.tgz",
+      "integrity": "sha512-yyy"
+    },
+    "node_modules/lodash": {
+      "version": "4.17.15",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.15.tgz",
+      "integrity": "sha512-zzz"
+    },
+    "node_modules/mocha": {
+      "version": "8.0.0",
+      "dev": true,
+      "resolved": "https://registry.npmjs.org/mocha/-/mocha-8.0.0.tgz",
+      "integrity": "sha512-mmm"
+    }
+  }
+}
+

@@ -1,0 +1,5 @@
+# Test Python dependencies
+jinja2==2.11.2
+urllib3==1.25.8
+requests==2.22.0
+

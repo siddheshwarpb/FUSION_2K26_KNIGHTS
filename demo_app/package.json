@@ -1,0 +1,17 @@
+{
+  "name": "patchorder-demo-service",
+  "version": "1.0.0",
+  "description": "Hackathon Demo Service with Remediated Safe Dependencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "lodash": "^4.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
